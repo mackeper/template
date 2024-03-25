@@ -1,4 +1,4 @@
-# SeshMgr.nvim
+# Template
 
 <div align="center">
 
