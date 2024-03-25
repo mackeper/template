@@ -4,7 +4,7 @@
 
 Template is repository template.
 
-![Logo](./.github/images/image.png)
+![Logo](./.github/images/image.jpg)
 
 [![Docs](https://github.com/mackeper/SeshMgr.nvim/actions/workflows/docs.yml/badge.svg)](https://github.com/mackeper/SeshMgr.nvim/actions/workflows/docs.yml)
 [![Tests](https://github.com/mackeper/SeshMgr.nvim/actions/workflows/tests.yml/badge.svg)](https://github.com/mackeper/SeshMgr.nvim/actions/workflows/tests.yml)
